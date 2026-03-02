@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstddef>
-
+//Вариант 2
 template <class T>
 T* merge2 (const T* a, size_t sa, const T* b, size_t sb, T* c)
 {
